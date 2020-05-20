@@ -1,0 +1,10 @@
+aic:5.0120 bic:10.7003  adjR2:0.377 pval:1.0000 OPLS 1
+aic:-52.7199 bic:-44.1874  adjR2:0.377 pval:0.0000 OPLS 1  2
+aic:-67.4904 bic:-56.1137  adjR2:0.377 pval:0.0000 OPLS 1  2  3
+aic:-91.8100 bic:-77.5891  adjR2:0.377 pval:0.0000 OPLS 1  2  3  4
+aic:3.0994 bic:8.7878  adjR2:0.377 pval:0.1709 PCA 1
+aic:-50.2856 bic:-41.7531  adjR2:0.377 pval:0.0000 PCA 1  2
+aic:-48.4845 bic:-37.1077  adjR2:0.377 pval:0.0000 PCA 1  2  3
+aic:-49.4748 bic:-35.2538  adjR2:0.377 pval:0.0000 PCA 1  2  3  4
+aic:-46.4563 bic:-29.3911  adjR2:0.377 pval:0.0000 PCA 1  2  3  4  5
+aic:-46.1716 bic:-26.2623  adjR2:0.377 pval:0.0000 PCA 1  2  3  4  5  6
